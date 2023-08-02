@@ -15,7 +15,7 @@
 		<ApplicationTitle>CodemagicTestApp</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.codemagictestapp</ApplicationId>
+		<ApplicationId>com.alekseistarkov.codemagictestapp</ApplicationId>
 		<ApplicationIdGuid>61f3b592-1dd1-479f-9aab-a1180e544a73</ApplicationIdGuid>
 
 		<!-- Versions -->
